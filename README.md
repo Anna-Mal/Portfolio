@@ -41,6 +41,7 @@ I am data analyst and bioinformatics scientist with over 15 years of experience 
 For any questions or further information, please feel free to contact me:
 
 [My LinkedIn Profile](https://www.linkedin.com/in/anna-m-malinowska/)
+
 [My website](https://anna-mal.github.io/)
 
 Thank you for visiting my Data Analyst Portfolio Repository!
