@@ -1,6 +1,0 @@
-[submodule "CGM_data"]
-	path = CGM_data
-	url = https://github.com/Anna-Mal/CGM_data.git
-[submodule "Resume"]
-	path = Resume
-	url = https://github.com/Anna-Mal/Resume.git
