@@ -26,7 +26,7 @@ Planned additions:
 - Tools: R, tidyverse, lubridate, hms, fuzzyjoin, DescTools, purrr, lme4, lmerTest, rstatix, broom.mixed, ggplot2, ggpubr, patchwork, ggrepel
 - Description: Integration of continuous glucose monitoring (CGM) and dietary intake data to quantify postprandial responses and assess inter-individual variability. Conducted within the GLYSIMI project in collaboration with Human Nutrition & Health (WUR).
 - [Link to CGM data analysis](https://github.com/Anna-Mal/CGM_data)
-- [full HTML report](./project2-clinical-data)
+- [full HTML report](https://anna-mal.github.io/CGM_data/Postprandial_GM.html)
 
 ### 4. 📋 Resume on dashboard
 - Tools: R, plotly, flextable, flexdashboard, lubridate, tidyverse, ggplot2, wordcloud, DT, shiny, htmltools, rsconnect
